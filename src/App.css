@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  color: aliceblue;
+  margin: 100px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}

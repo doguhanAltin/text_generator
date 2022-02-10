@@ -1,0 +1,27 @@
+.formClass{
+display: flex;
+}
+.selectionClass{
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    
+}
+select {
+
+  text-align: center;
+  width: 60px;
+  height: 50px;
+}
+
+input {
+
+  width: 70px;
+  height: 44px;
+  text-align: center;
+    
+}
